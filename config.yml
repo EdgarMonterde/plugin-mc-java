@@ -1,0 +1,3 @@
+Config:
+    mensaje-bienvenida: true
+    mensaje bienvenida-texto: "Bienvenido al servidor &a%player%!"

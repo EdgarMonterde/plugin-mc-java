@@ -1,0 +1,9 @@
+main: eddd.pluginss.PluginMy
+version: 1.0.0
+name: PluginMy
+
+commands:
+  clasicon:
+    description: El comando test de mi plugin
+  tt:
+    description: Este comando es para ayudar  
